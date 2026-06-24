@@ -1,2 +1,5 @@
-# mass-shooting-victim-count-prediction
-This project applies supervised machine learning regression models to predict victim death counts in U.S. mass shooting incidents. The goal was to compare multiple modeling approaches and evaluate which methods performed best on a sensitive real-world dataset.
+## Research Report
+
+The full written research report for this project is included here:
+
+[Ethical Data Science Research Report](reports/ethical_data_science_research_report.pdf)
